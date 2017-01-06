@@ -68,7 +68,5 @@ public class HW0Runner implements Containers<Integer,String> {
 	}
 
 
-	public static void main(String[] args){
-		System.out.println("Hello");
-	}
+
 }
